@@ -6,7 +6,7 @@
  */
 int main(void)
 {
-	long int n, n2, fn, afn;
+	long int n1, n2, fn, afn;
 
 	n1 = 1;
 	n2 = 2;
@@ -21,6 +21,6 @@ int main(void)
 			afn += n1;
 		}
 	}
-	pritf("%ld\n", afn;
+	printf("%ld\n", afn);
 	return (0);
 }

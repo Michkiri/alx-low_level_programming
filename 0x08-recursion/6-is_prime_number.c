@@ -24,7 +24,7 @@ int is_prime_number(int n);
  * Return: 0 for divisor, 1 for not
  */
 
-int divisible(int my_num, int divisor);
+int divisible(int my_num, int divisor)
 {
 	if (my_num % divisor == my_num / 2)
 	{

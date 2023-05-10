@@ -5,7 +5,7 @@
  *
  * Return: string
  */
-void _puts_recursion(chqr *s)
+void _puts_recursion(char *s)
 {
 	if (*s)
 	{
